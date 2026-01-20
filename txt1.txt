@@ -1,0 +1,4 @@
+compare 
+pull
+check
+merge
